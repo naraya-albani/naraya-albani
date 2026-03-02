@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**naraya-albani/naraya-albani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Naraya Albani
+### Fullstack Developer
 
-Here are some ideas to get you started:
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Main%20Focus-Fullstack%20Development-blue?style=for-the-badge&logo=" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/narayaalbani-black?style=for-the-badge&logo=x" />
+</p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=js,ts,php,dart,java,python" /><br>
+      <strong>Languages</strong>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=nextjs,laravel,flutter" /><br>
+      <strong>Frameworks</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=mysql,prisma,firebase" /><br>
+      <strong>Backend & Database</strong>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=tailwind,vite,postman,vscode,androidstudio" /><br>
+      <strong>Styling & Tools</strong>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=naraya-albani&theme=dark&hide_border=false" alt="GitHub Streak" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naraya-albani&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+</div>
