@@ -33,7 +33,7 @@
 </table>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=naraya-albani&theme=default&hide_border=false" alt="GitHub Streak" height="170px" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=naraya-albani&theme=dark&hide_border=false" alt="GitHub Streak" height="170px" />
 </p>
 
 <p align="center">
