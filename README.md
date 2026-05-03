@@ -26,7 +26,7 @@
       <strong>Backend & Database</strong>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=tailwind,vite,postman,vscode,androidstudio,tensorflow" /><br>
+      <img src="https://skillicons.dev/icons?i=tailwind,vite,postman,vscode,androidstudio,tensorflow,vercel" /><br>
       <strong>Styling & Tools</strong>
     </td>
   </tr>
